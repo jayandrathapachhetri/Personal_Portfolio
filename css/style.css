@@ -320,25 +320,6 @@ header .follow a:hover {
   gap: 1.5rem;
 }
 
-/* .about .row-2 .box-container .box{
-    flex:1 1 15rem;
-    background:#fff;
-    padding:2rem;
-    border-radius: .5rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-}
-
-.about .row-2 .box-container .box h3{
-    color:var(--main-color);
-    font-size: 3rem;
-}
-
-.about .row-2 .box-container .box p{
-    color:#666;
-    font-size: 1.7rem;
-    padding-top: .5rem;
-} */
-
 .service .box-container {
   display: flex;
   flex-wrap: wrap;
